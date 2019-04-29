@@ -9,4 +9,4 @@ For an introduction to the technologies used and how the software is organized, 
 
 To set up a local install of Habitica for development and testing on various platforms, see [Setting up Habitica Locally](http://habitica.wikia.com/wiki/Setting_up_Habitica_Locally).
 
-...I have a reason for keeping this out of date, I swear.
+...This whole thing has become a mess; I've decided to try one last thing before trashing the whole fork and redoing it. There are things I'm using *this* fork for, though, that benefit from it staying at this version, so I'm gonna try mirroring it.
